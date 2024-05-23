@@ -1,4 +1,3 @@
-<body bg+:black">
 <h1 align="center">Hi 👋, I'm sana</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 I'm a passionate web developer with expertise in HTML, CSS, JavaScript, TypeScript, and Bootstrap. I love creating responsive and visually appealing web applications.
@@ -35,4 +34,3 @@ I'm a passionate web developer with expertise in HTML, CSS, JavaScript, TypeScri
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sana-ahtisham&show_icons=true&locale=en&layout=compact" alt="sana-ahtisham" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sana-ahtisham&show_icons=true&locale=en" alt="sana-ahtisham" /></p>
-</body>
